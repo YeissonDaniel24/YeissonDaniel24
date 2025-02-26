@@ -20,7 +20,7 @@ Focused on delivering high-performance solutions and staying up to date with the
 
 ```json
 {
-  "languages": ["php", "Javascript", "Bash"],
+  "languages": ["php", "Javascript", "Liquid", "Hydrogen", "Bash"],
   "frameworks/libraries": {
     "backend": ["Laravel", "Lumen", "nodejs"],
     "frontend": ["React","Next","Bootstrap", "Tailwind"], 
